@@ -2,7 +2,7 @@
 // https://learn.adafruit.com/thermocouple/
 // add thermostat function with potentiometer adjust by Nicu FLORICA (niq_ro) - Craiova, 7-Oct-2020
 
-#include <max6675.h>  - https://github.com/adafruit/MAX6675-library
+#include <max6675.h>  // https://github.com/adafruit/MAX6675-library
 #include <LiquidCrystal.h>
 #include <Wire.h>
 
